@@ -2,7 +2,7 @@
 *.zip
 
 # Report
-Report
+Report.pdf
 
 # Other
 .DS_Store
